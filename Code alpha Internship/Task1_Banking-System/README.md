@@ -79,7 +79,7 @@ All actions are stored in memory and handled using class functions.
 
 ## 🔗 GitHub Repository
 
-📌 Link: [https://github.com/sanaullah23569/CodeAlpha_BankingSystem](https://github.com/sanaullah23569/CodeAlpha_BankingSystem)
+📌 Link: https://github.com/Sanaullh23569/CodeAlpha_Cpp_Internship-/tree/main/Code%20alpha%20Internship/Task1_Banking-System
 
 ---
 
