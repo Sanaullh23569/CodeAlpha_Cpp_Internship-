@@ -83,5 +83,3 @@ sudoku_solver.cpp — Full C++ source code
 README.md — Project documentation
 
 
-🔗 GitHub Repository
-📌 Link: https://github.com/sanaullah23569/CodeAlpha_SudokuSolver
