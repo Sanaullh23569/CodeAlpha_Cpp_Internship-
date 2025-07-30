@@ -82,8 +82,6 @@ sudoku_solver.cpp — Full C++ source code
 
 README.md — Project documentation
 
-📸 (Optional) Screenshot
-You may add a screenshot of your console after solving the puzzle.
 
 🔗 GitHub Repository
 📌 Link: https://github.com/sanaullah23569/CodeAlpha_SudokuSolver
