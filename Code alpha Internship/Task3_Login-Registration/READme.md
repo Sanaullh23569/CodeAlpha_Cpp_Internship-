@@ -60,11 +60,6 @@ Exit
 
 ---
 
-## 🔗 GitHub Repository
-
-📌 Link: [https://github.com/sanaullah23569/CodeAlpha_LoginSystem](https://github.com/sanaullah23569/CodeAlpha_LoginSystem)
-
-
 
 
 ---
